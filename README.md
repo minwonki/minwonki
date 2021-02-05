@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-:wave: 나는 현재 Android 개발자로 일하고 있습니다 [Logispot](https://www.logi-spot.com/)
+# 나는 현재 Android 개발자로 일하고 있습니다 [Logispot](https://www.logi-spot.com/)
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+# Carrier
+
+# Tech 
+
+# Write 
 
 [![Minwonki GitHub stats](https://github-readme-stats.vercel.app/api?username=minwonki)](https://github.com/anuraghazra/github-readme-stats)
 
