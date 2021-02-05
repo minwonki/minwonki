@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-### 현재 Android 개발자로 일하고 있습니다 [Logispot](https://www.logi-spot.com/)
+현재 Android 개발자로 일하고 있습니다 [Logispot](https://www.logi-spot.com/)
 
 ### :purple_heart: Carrier
+
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **회사** | 2018. 12 ~ 2019. 6 | 모바일 개발자(Anroid, iOS) | **로지스팟** |
@@ -13,7 +14,11 @@
 
 ### Tech 
 
+뭘 할수 있는지??
+
 ### Write 
+
+글 쓴것들 또는 블로그
 
 [![Minwonki GitHub stats](https://github-readme-stats.vercel.app/api?username=minwonki)](https://github.com/anuraghazra/github-readme-stats)
 
