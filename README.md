@@ -21,6 +21,7 @@ Android 개발할때 주로 사용하는 기술들
 * [RxJava] - 비동기(Network) 또는 UI Event 수집시 사용함
 * [Kotlin] - Android 개발언어로 자연스럽게 사용하게됨.
 * [Dagger Hilt] - DI 도구로 최근에 사용하고 있음.
+* [Jetpack Compose] - 요즘 관심을 가지고 지켜보는 API (with SwiftUI)
 
 ### 📫 Write 
 
