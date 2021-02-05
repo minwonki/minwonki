@@ -15,10 +15,12 @@
 ### 🌱 Tech 
 
 Android 개발할때 주로 사용하는 기술들
+* [Architecture](https://developer.android.com/jetpack/guide) - 구글에서 권한하는 구조를 사용하기 위한 노력함. 
 * [AAC - ViewModel] - Android Life Cycle 에 특화된 ViewModel
 * [Retrofit] - Android 용 Network 모듈
 * [RxJava] - 비동기(Network) 또는 UI Event 수집시 사용함
 * [Kotlin] - Android 개발언어로 자연스럽게 사용하게됨.
+* [Dagger Hilt] - DI 도구로 최근에 사용하고 있음.
 
 ### 📫 Write 
 
