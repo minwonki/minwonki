@@ -12,21 +12,15 @@
 | **회사** | 2007. 6 ~ 2010. 3 | 시스템 개발자 | **트리니트소프트웨어** |
 | **교육** | 1999. 3 ~ 2006. 2 | 소프트웨어공학 | **상명 대학교** |
 
-### Tech 
+### 🌱 Tech 
 
-Android 개발할때 주로 사용하는 기술들:
-
+Android 개발할때 주로 사용하는 기술들
 * [AAC - ViewModel] - Android Life Cycle 에 특화된 ViewModel
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
-* [jQuery] - duh
+* [Retrofit] - Android 용 Network 모듈
+* [RxJava] - 비동기(Network) 또는 UI Event 수집시 사용함
+* [Kotlin] - Android 개발언어로 자연스럽게 사용하게됨.
 
-### Write 
+### 📫 Write 
 
 글 쓴것들 또는 블로그
 
