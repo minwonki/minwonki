@@ -26,9 +26,12 @@ Android 개발할때 주로 사용하는 기술들
 ### 📫 Write 
 
 글 쓴것들 또는 블로그
-* [공용 ListAdapter 만들기](https://www.notion.so/wkmin/ListAdapter-0b1491db143a48b8859ca17a0175369b) - 반복되는 리스트뷰를 간단히 만들어 보자. 🌱
-* [Koin -> Hilt(DI) 갈아타기](https://www.notion.so/wkmin/Hilt-DI-koin-Hilt-f9c22e5ce5594f07a32b964b4164aae1) - Dagger Hilt 는 얼마나 편할까? 🤔
-* [Alpha Library 경험기](https://www.notion.so/wkmin/Alpha-Library-10370dbe4c644fc28d70650671164cec) - Hilt Alpha 단계 사용 채험담. :scream: 
+* [Nice 본인인증 연동하기, 2021.03](https://www.notion.so/wkmin/Nice-iOS-c6e71ae66782486f9751f2db01ee2c30) - 기억이 안남. :flushed:
+* [Alpha Library 경험기, 2021.01](https://www.notion.so/wkmin/Alpha-Library-10370dbe4c644fc28d70650671164cec) - Hilt Alpha 단계 사용 채험담. :scream: 
+* [Koin -> Hilt(DI) 갈아타기, 2020.12](https://www.notion.so/wkmin/Hilt-DI-koin-Hilt-f9c22e5ce5594f07a32b964b4164aae1) - Dagger Hilt 는 얼마나 편할까? 🤔
+* [공용 ListAdapter 만들기, 2020.11](https://www.notion.so/wkmin/ListAdapter-0b1491db143a48b8859ca17a0175369b) - 반복되는 리스트뷰를 간단히 만들어 보자. 🌱
+
+
 
 [![Minwonki GitHub stats](https://github-readme-stats.vercel.app/api?username=minwonki)](https://github.com/anuraghazra/github-readme-stats)
 
