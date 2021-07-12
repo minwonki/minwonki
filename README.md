@@ -26,6 +26,7 @@ Android 개발할때 주로 사용하는 기술들
 ### 📫  Write 
 
 글 쓴것들 또는 블로그
+* [Coroutine 은 뭘까? 2021.07](https://www.notion.so/wkmin/Kotlin-Coroutine-1986a10544d247fba6d509e985815150) - 원리가 뭘까?? :scream:
 * [Android 앱서명 방법, 2021.05](https://www.notion.so/wkmin/Android-56bbdcf4140945d48b1d7e29a1ccfa7c) - 외부 CI 사용할때 앱 서명. :flushed:
 * [Nice 본인인증 연동하기, 2021.03](https://www.notion.so/wkmin/Nice-iOS-c6e71ae66782486f9751f2db01ee2c30) - Nice 본인인증 연동. :flushed:
 * [Alpha Library 경험기, 2021.01](https://www.notion.so/wkmin/Alpha-Library-10370dbe4c644fc28d70650671164cec) - Hilt Alpha 단계 사용 채험담. :scream: 
